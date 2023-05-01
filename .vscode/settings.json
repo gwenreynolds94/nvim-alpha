@@ -1,0 +1,15 @@
+{
+    "workbench.colorCustomizations": {
+        "minimap.background": "#00000000",
+        "scrollbar.shadow": "#00000000"
+    },
+    "Lua.codeLens.enable": true,
+    "Lua.completion.callSnippet": "Replace",
+    "Lua.completion.displayContext": 30,
+    "Lua.hint.arrayIndex": "Enable",
+    "Lua.hint.enable": true,
+    "Lua.hint.setType": true,
+    "Lua.workspace.library": [
+        "C:\\Program Files\\Neovim\\share\\nvim\\runtime\\lua"
+    ]
+}
